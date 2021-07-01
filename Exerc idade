@@ -17,7 +17,7 @@ Inicio
   escreval("Dados da segunda pessoa")
   escreva("Nome:")
   leia(nome2)
-  escreva("Idade:")
+  escreva("Idade:") 
   leia(idade2)
 
   media <- (idade1 + idade2) / 2
